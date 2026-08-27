@@ -6,10 +6,13 @@
 
 A comprehensive, full-stack e-commerce application built for modern selling — supporting Admins, Sellers, and Customers in a single unified platform.
 
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://faylish.vercel.app/)
 [![Made with Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#technology-stack)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#technology-stack)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](#technology-stack)
 [![Clerk Auth](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](#technology-stack)
+
+[Live Demo](https://faylish.vercel.app/)
 
 </div>
 
@@ -38,6 +41,10 @@ A comprehensive, full-stack e-commerce application built for modern selling — 
 Faylish is a comprehensive, full-stack e-commerce application built for modern selling. Whether you're an admin managing the platform, a seller running your own store, or a customer shopping for the best products, Faylish provides a seamless, scalable, and feature-rich experience.
 
 This documentation provides a detailed breakdown of the project's structure, technologies, features, and setup instructions.
+
+### Live Demo
+
+**[https://faylish.vercel.app/](https://faylish.vercel.app/)**
 
 ### Project Goals
 
@@ -414,6 +421,7 @@ Contributions are welcome. To contribute:
 
 ## Contact & Support
 
+- **Live Demo:** [faylish.vercel.app](https://faylish.vercel.app/)
 - **Project Repository:** GitHub
 - **Issues:** GitHub Issues
 
